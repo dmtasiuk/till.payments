@@ -1,0 +1,15 @@
+.auth-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .auth-form {
+    min-width: 300px;
+    padding: 25px;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 3px #ddeedd;
+  }
+}

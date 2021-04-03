@@ -1,0 +1,7 @@
+.idea
+.git
+*/node_modules/*
+*/dist/*
+*/build/*
+docker-compose.yml
+README.md
