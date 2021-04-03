@@ -7,7 +7,7 @@
 
 ## Start application
 
-Execute following commands to start project on your local machine
+Execute following command to start project on your local machine
 
 ```shell script
 make run
